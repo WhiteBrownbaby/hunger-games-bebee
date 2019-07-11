@@ -10,7 +10,7 @@
 
 # You can see more sample player classes in bots.py
 
-class BasePlayer(object):
+class ariana(object):
     '''
     Base class so I don't have to repeat bookkeeping stuff.
     Do not edit unless you're working on the simulation.
@@ -33,7 +33,7 @@ class BasePlayer(object):
         pass
 
 
-class Player(BasePlayer):
+class Facundo(BasePlayer):
     '''
     Your strategy starts here.
     '''
